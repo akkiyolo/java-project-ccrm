@@ -151,6 +151,16 @@ Enable assertions when running:
 ``` bash
 java -ea -cp out edu.ccrm.cli.MainMenu
 ```
+---
+
+## 📜 License & Credits
+
+License: EPL 2.0 — see LICENSE
+
+Author: Akshat Shukla
+
+Credits: Eclipse , Oracle
+
 
 
 
