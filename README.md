@@ -42,3 +42,14 @@ java -cp out edu.ccrm.cli.MainMenu
 
 2019–present: Java 11/17 LTS; new features every 6 months.
 
+---
+
+## 🖥️ Java ME vs SE vs EE
+
+| Aspect      | Java ME (Micro)         | Java SE (Standard)  | Java EE (Enterprise)          |
+| ----------- | ----------------------- | ------------------- | ----------------------------- |
+| Target      | Mobile/embedded devices | Desktop & CLI apps  | Large-scale enterprise apps   |
+| APIs        | Limited (CLDC/MIDP)     | Full core libraries | Adds servlets, EJB, JPA, etc. |
+| Example Use | Feature phones          | Console apps, tools | Banking, e-commerce           |
+
+
