@@ -3,9 +3,12 @@
 A console-based Java SE application to manage **students, courses, enrollment, grades, transcripts, and file utilities** for a campus.  
 This project demonstrates Java OOP principles, modern APIs (NIO.2, Streams, Date/Time), design patterns (Singleton, Builder), recursion, enums, exceptions, and CLI workflows.
 
+<img width="696" height="278" alt="image" src="https://github.com/user-attachments/assets/e49e3401-1f96-4963-9a9b-27a189e6b95d" />
+
+
 ---
 
-<img width="1024" height="1024" alt="Gemini_Generated_Image_2vqa362vqa362vqa" src="https://github.com/user-attachments/assets/5bdddd76-60c4-4c6e-bc6b-7ac392f58ac9" />
+
 
 
 ## 🚀 How to Run
@@ -163,6 +166,7 @@ License: EPL 2.0 — see LICENSE
 Author: Akshat Shukla
 
 Credits: Eclipse , Oracle
+
 
 
 
