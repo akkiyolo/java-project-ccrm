@@ -5,6 +5,9 @@ This project demonstrates Java OOP principles, modern APIs (NIO.2, Streams, Date
 
 ---
 
+<img width="1024" height="1024" alt="Gemini_Generated_Image_2vqa362vqa362vqa" src="https://github.com/user-attachments/assets/5bdddd76-60c4-4c6e-bc6b-7ac392f58ac9" />
+
+
 ## 🚀 How to Run
 
 ### Requirements
@@ -160,6 +163,7 @@ License: EPL 2.0 — see LICENSE
 Author: Akshat Shukla
 
 Credits: Eclipse , Oracle
+
 
 
 
