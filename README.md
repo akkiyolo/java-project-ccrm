@@ -143,6 +143,16 @@ src/edu/ccrm/
 | Lambdas                              | `CourseService.filter...`                                         |
 | Anonymous inner class                | `BackupService` (FileVisitor)                                     |
 
+---
+
+## 🧪 Assertions
+
+Enable assertions when running:
+``` bash
+java -ea -cp out edu.ccrm.cli.MainMenu
+```
+
+
 
 
 
