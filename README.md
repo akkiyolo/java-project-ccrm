@@ -26,3 +26,19 @@ java -cp out edu.ccrm.cli.MainMenu
 
 - Right-click MainMenu.java → Run As → Java Application.
 
+---
+
+## 📜 Evolution of Java
+
+1995: Java 1.0 released ("Write Once, Run Anywhere").
+
+2004: Java 5 introduced generics, enums, annotations.
+
+2011: Java 7 with try-with-resources, NIO.2.
+
+2014: Java 8 with lambdas, streams, Date/Time API.
+
+2017: Java 9 modules, JShell.
+
+2019–present: Java 11/17 LTS; new features every 6 months.
+
