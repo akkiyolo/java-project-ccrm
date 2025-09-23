@@ -20,8 +20,9 @@ java -cp out edu.ccrm.cli.MainMenu
 ---
 ### Eclipse
 
--- File → New → Java Project → Name it ccrm.
+- File → New → Java Project → Name it ccrm.
 
--- Copy src/edu/ccrm/... into src.
+- Copy src/edu/ccrm/... into src.
 
--- Right-click MainMenu.java → Run As → Java Application.
+- Right-click MainMenu.java → Run As → Java Application.
+
